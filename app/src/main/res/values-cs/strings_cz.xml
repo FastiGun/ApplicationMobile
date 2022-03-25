@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculassion</string>
+    <string name="Play">Hráč</string>
+    <string name="scores">Skóre</string>
+    <string name="delete">Odstrant</string>
+    <string name="valider">Ověřit</string>
+    <string name="a_propos">Kromě</string>
+    <string name="meilleurs_joueurs">Nejlepší hráči</string>
+    <string name="toolBarScores">Skóre :</string>
+    <string name="toolBarFinish">Do konce</string>
+    <string name="cette_application_a_t_r_alis_par_axel_goret_et_benjamin_hebert_l_application_est_disponible_en_francais_et_en_tch_que">Tuto aplikaci vytvořili Axel GORET a Benjamin HEBERT. Aplikace je dostupná ve francouzštině a češtině. Přidali jsme malé mrknutí, abychom označili, zda je odpověď správná nebo ne.</string>
+    <string name="nbGoodAnswer">\0 správná odpověď \</string>
+    <string name="nbGoodAnswer3">\ správná odpověď \</string>
+    <string name="nbGoodAnswer2">\ správná odpověď \</string>
+</resources>
